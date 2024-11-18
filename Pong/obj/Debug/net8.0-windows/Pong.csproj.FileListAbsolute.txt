@@ -1,0 +1,17 @@
+C:\Users\Orion mccree\source\repos\Pong\Pong\bin\Debug\net8.0-windows\Pong.exe
+C:\Users\Orion mccree\source\repos\Pong\Pong\bin\Debug\net8.0-windows\Pong.deps.json
+C:\Users\Orion mccree\source\repos\Pong\Pong\bin\Debug\net8.0-windows\Pong.runtimeconfig.json
+C:\Users\Orion mccree\source\repos\Pong\Pong\bin\Debug\net8.0-windows\Pong.dll
+C:\Users\Orion mccree\source\repos\Pong\Pong\bin\Debug\net8.0-windows\Pong.pdb
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.Form1.resources
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.Properties.Resources.resources
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.csproj.GenerateResource.cache
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.AssemblyInfoInputs.cache
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.AssemblyInfo.cs
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.dll
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\refint\Pong.dll
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.pdb
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\Pong.genruntimeconfig.cache
+C:\Users\Orion mccree\source\repos\Pong\Pong\obj\Debug\net8.0-windows\ref\Pong.dll
